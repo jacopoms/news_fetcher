@@ -18,6 +18,6 @@ defmodule NewsFetcher do
   end
 
   def process_request_options(options) do
-
+    nil
   end
 end
